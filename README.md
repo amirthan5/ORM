@@ -43,8 +43,8 @@ class StudentAdmin(admin.ModelAdmin):
     list_display = ('name', 'admnno', 'age', 'dob', 'sec', 'std', 'phno', 'bldgrp')
 ```
 # OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57720e58-4e4b-4357-b135-101f5509f956" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b98d804c-d05c-4ebe-8ef4-290a405ce14c" />
+<img src="Admin_Page.png">
+<img src="Table.png">
 
 # RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM has been executed successfully
